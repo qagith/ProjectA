@@ -1,2 +1,2 @@
 # ProjectA
-# This is a test . Create REDAME file
+# This is a test . Create README file
